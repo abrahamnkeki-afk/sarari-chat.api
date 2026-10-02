@@ -1,4 +1,5 @@
-name = "sarari-digital"
+# wrangler.toml
+name = 'sarari-chat-api'
 compatibility_date = "2026-10-02"
 
 [assets]
