@@ -1,6 +1,3 @@
-# wrangler.toml
-name = 'sarari-chat-api'
+name = "sarari-chat-api"
+main = "worker-chat.js"
 compatibility_date = "2026-10-02"
-
-[assets]
-directory = "./"
